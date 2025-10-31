@@ -1,0 +1,2 @@
+Input Image,Output Image,Result,Major Diameter (mm),Minor Diameter (mm),Pitch (mm),Scale (pixels/mm)
+data/raw/bolt2.jpg,results/output_images\bolt2_measured.jpg,Accepted,10.02,8.43,1.77,20.1646

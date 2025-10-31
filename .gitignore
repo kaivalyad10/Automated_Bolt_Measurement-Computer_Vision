@@ -1,0 +1,32 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data & models
+data/*
+!data/sample_images/.gitkeep
+models/*
+!models/.gitkeep
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Colab outputs
+.ipynb
+
+# VSCode
+.vscode/
+
+# Secrets
+*.pem
